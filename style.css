@@ -1,0 +1,29 @@
+body {
+    background-color: #647AF5;
+    height: 100vh;
+}
+
+#main-square {
+    width: 84.44%;
+    height: 74.61%;
+    background-color: rgba(255, 255, 255, .5);
+    position: static;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 58px;
+}
+
+#greetings-square {
+    background-color: #64D5F5;
+    width: 50%;
+    height: 100%;
+    border-radius: 58px 0 0 58px;
+}
+
+#signup-square {
+    background-color: #D9D9D9;
+    width: 73.11%;
+    height: 82.98%;
+    border-radius: 58px;
+    transform: translate(531px, 50px);
+}
