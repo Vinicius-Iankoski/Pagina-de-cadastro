@@ -1,11 +1,12 @@
 body {
     background-color: #647AF5;
-    height: 100vh;
+    margin: 0;
 }
 
 #main-square {
-    width: 84.44%;
-    height: 74.61%;
+    margin: 48px 0 0 0;
+    width: 850px;
+    height: 543px;
     background-color: rgba(255, 255, 255, .5);
     position: static;
     margin-left: auto;
@@ -20,10 +21,10 @@ body {
     border-radius: 58px 0 0 58px;
 }
 
-#signup-square {
+/* #signup-square {
     background-color: #D9D9D9;
     width: 73.11%;
     height: 82.98%;
     border-radius: 58px;
-    transform: translate(531px, 50px);
-}
+    /* transform: translate(531px, 50px);
+}*/
