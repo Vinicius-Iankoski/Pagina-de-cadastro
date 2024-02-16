@@ -3,6 +3,18 @@ body {
     margin: 0;
 }
 
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.poppins-semibold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
 #main-square {
     margin: 48px 0 0 0;
     width: 850px;
@@ -21,10 +33,9 @@ body {
     border-radius: 58px 0 0 58px;
 }
 
-/* #signup-square {
+#signup-square {
     background-color: #D9D9D9;
-    width: 73.11%;
-    height: 82.98%;
+    width: 50%;
+    height: 100%;
     border-radius: 58px;
-    /* transform: translate(531px, 50px);
-}*/
+}
