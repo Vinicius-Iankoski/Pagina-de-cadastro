@@ -37,6 +37,9 @@ body {
 #signup-square {
     background-color: #D9D9D9;
     position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
     width: 40%;
     height: 85%;
     border-radius: 58px;
@@ -77,4 +80,11 @@ body {
     font-weight: normal;
     margin: 5px 0 0 0;
     text-align: center;
+    position: relative;
+    bottom: 70px;
+}
+
+#signup-square form {
+    margin: 0;
+    display: inline-grid;
 }
