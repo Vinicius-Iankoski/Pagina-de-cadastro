@@ -6,7 +6,8 @@
 Este projeto tem como sua principal finalidade o estudo de **Web Design**, utilizando a ferramenta *Figma*, e a programação do protótipo como um todo.
 ## Design inicial
 <p align="center">
-<img loading="lazy" src="https://github.com/Vinicius-Iankoski/Pagina-de-cadastro/assets/158093034/ccbc2141-1855-4cff-bbda-a4f1a784945a">
+<img loading="lazy" src="https://github.com/Vinicius-Iankoski/Pagina-de-cadastro/assets/158093034/a80f8f60-ba9e-43fd-8ef1-ddde3cdb7685">
 </p>
 
 Essa é a visão geral do projeto, com a escolha de cores mais azuladas e alguns efeitos simples no projeto.
+
