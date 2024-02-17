@@ -37,10 +37,10 @@ body {
 #signup-square {
     background-color: #D9D9D9;
     position: relative;
-    width: 50%;
-    height: 100%;
+    width: 40%;
+    height: 85%;
     border-radius: 58px;
-    bottom: 103.5%;
-    left: 50%;
+    bottom: 95.8%;
+    left: 55%;
     /* transform: translate(); */
 }
