@@ -28,7 +28,7 @@ body {
 }
 
 #greetings-square {
-    background-color: #64D5F5;
+    background-color: #63A6F4;
     width: 50%;
     height: 100%;
     border-radius: 58px 0 0 58px;
@@ -42,5 +42,23 @@ body {
     border-radius: 58px;
     bottom: 95.8%;
     left: 55%;
-    /* transform: translate(); */
+}
+
+#greetings-square h1 {
+    color: white;
+    font-size: 60px;
+    font-weight: bold;
+    display: table-caption;
+    margin: 90% 0 0 50%;
+    letter-spacing: 0.1px;
+}
+
+#greetings-square h2 {
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    display: table-caption;
+    padding-left: 50%;
+    margin-right: -70%;
+    letter-spacing: 0.1px;
 }
