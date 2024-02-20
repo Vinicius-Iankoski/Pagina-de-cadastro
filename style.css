@@ -45,7 +45,7 @@ body {
     width: 40%;
     height: 85%;
     border-radius: 58px;
-    bottom: 95.8%;
+    bottom: 92.8%;
     left: 55%;
 }
 
@@ -96,8 +96,60 @@ body {
 .signup-forms .forms-input {
     align-self: center;
     margin-bottom: 18px;
-    width: 73.79%;
+    width: 55.79%;
     height: 40px;
     border-radius: 10px;
     border: 0;
+}
+
+input[type="text"].forms-input {
+    position: relative;
+    padding-left: 18%;
+}
+
+input[type="email"].forms-input {
+    position: relative;
+    padding-left: 18%;
+}
+
+input[type="submit"].forms-input {
+    border-radius: 58px;
+    width: 254px;
+    position: relative;
+    top: 18px;
+    background-color: #64D5F5;
+    color: white;
+    font-size: 23px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-align: center;
+    cursor: pointer;
+}
+
+img#user-icon {
+    width: 25px;
+    position: relative;
+    bottom: 58.5%;
+    left: 18%
+}
+
+img#email-icon {
+    width: 25px;
+    position: relative;
+    bottom: 51%;
+    left: 18%
+}
+
+img#password-icon {
+    width: 25px;
+    position: relative;
+    bottom: 43.5%;
+    left: 18%
+}
+
+img#confirmPassword-icon {
+    width: 25px;
+    position: relative;
+    bottom: 36%;
+    left: 18%
 }
