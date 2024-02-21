@@ -153,3 +153,37 @@ img#confirmPassword-icon {
     bottom: 36%;
     left: 18%
 }
+
+img#vector-1 {
+    height: 40%;
+    position: relative;
+    top: -70%;
+    right: -20.2%;
+}
+
+img#vector-2 {
+    height: 20%;
+    position: relative;
+    top: -30.6%;
+}
+
+img#vector-3 {
+    height: 14%;
+    position: relative;
+    top: -102%;
+    left: -23%;
+}
+
+img#vector-4 {
+    right: -15%;
+    height: 7%;
+    position: relative;
+    top: -44%;
+}
+
+img#vector-5 {
+    right: -21.3%;
+    height: 8%;
+    position: relative;
+    top: -63%;
+}
