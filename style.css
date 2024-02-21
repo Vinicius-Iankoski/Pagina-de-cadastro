@@ -112,6 +112,11 @@ input[type="email"].forms-input {
     padding-left: 18%;
 }
 
+input[type="password"].forms-input {
+    position: relative;
+    padding-left: 18%;
+}
+
 input[type="submit"].forms-input {
     border-radius: 58px;
     width: 254px;
