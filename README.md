@@ -13,4 +13,6 @@ Essa é a visão geral do projeto, com a escolha de cores mais azuladas e alguns
 ## Projeto
 <p align="center">
 <img loading="lazy" src="https://github.com/Vinicius-Iankoski/Pagina-de-cadastro/assets/158093034/89c0acda-c971-46f5-b902-2117a6bf1858">
-Essa é a visão do projeto já feito.
+</p>
+
+Essa é a visão do projeto já feito. Resumidamente, pude aprender sobre as funcionalidades do Figma juntamente com alguns princípios de Web Design, como as 12 colunas, por exemplo. Pretendo em breve aprender mais sobre layouts web e aplicar em aplicações futuras. No geral, foi um projeto super divertido de se fazer!
