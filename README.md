@@ -9,7 +9,8 @@ Este projeto tem como sua principal finalidade o estudo de **Web Design**, utili
 <img loading="lazy" src="https://github.com/Vinicius-Iankoski/Pagina-de-cadastro/assets/158093034/a80f8f60-ba9e-43fd-8ef1-ddde3cdb7685">
 </p>
 
-Essa é a visão geral do projeto, com a escolha de cores mais azuladas e alguns efeitos simples no projeto. Busquei utilizar cores azuis para trazer uma interface mais amigável.
+Essa é a visão geral do projeto, com a escolha de cores mais azuladas e alguns efeitos simples no projeto. Busquei utilizar cores azuis para trazer uma interface mais amigável. <br>
+* Link: https://www.figma.com/file/oLlFO5fjoLK6xhLsOcCgUD/PagCadastro?type=design&node-id=0%3A1&mode=design&t=ES6gzu3jA2EkZ7I7-1
 ## Projeto
 <p align="center">
 <img loading="lazy" src="https://github.com/Vinicius-Iankoski/Pagina-de-cadastro/assets/158093034/89c0acda-c971-46f5-b902-2117a6bf1858">
